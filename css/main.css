@@ -24,6 +24,7 @@ img {
 
 .cards {
   text-align: center;
+  list-style-type: none;
 }
 
 h2 {
@@ -84,3 +85,4 @@ ul {
   html {
     font-size: 130%;
   }
+}
